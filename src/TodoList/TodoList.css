@@ -1,0 +1,17 @@
+.TodoList{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.TodoList ul {
+list-style: none;
+width: 280px;
+margin: 0;
+padding: 20px 0 36px; 
+}
+.TodoList ul li {
+    background-color: cornsilk;
+    margin-bottom: 10px;
+    padding-left: 8px;
+}

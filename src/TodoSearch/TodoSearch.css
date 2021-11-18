@@ -1,0 +1,8 @@
+.TodoSearch{
+    width: 270px;
+    height: 30px;
+    border-radius: 6px;
+    padding-left: 4px;
+    font-size: 1.2rem;
+    border: none;
+}
