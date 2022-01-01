@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/AppTasks/static/css/main.6b4f7fef.chunk.css",
-    "main.js": "/AppTasks/static/js/main.9efcaa6b.chunk.js",
-    "main.js.map": "/AppTasks/static/js/main.9efcaa6b.chunk.js.map",
-    "runtime-main.js": "/AppTasks/static/js/runtime-main.02d4fa96.js",
-    "runtime-main.js.map": "/AppTasks/static/js/runtime-main.02d4fa96.js.map",
-    "static/js/2.acea5461.chunk.js": "/AppTasks/static/js/2.acea5461.chunk.js",
-    "static/js/2.acea5461.chunk.js.map": "/AppTasks/static/js/2.acea5461.chunk.js.map",
-    "index.html": "/AppTasks/index.html",
-    "static/css/main.6b4f7fef.chunk.css.map": "/AppTasks/static/css/main.6b4f7fef.chunk.css.map",
-    "static/js/2.acea5461.chunk.js.LICENSE.txt": "/AppTasks/static/js/2.acea5461.chunk.js.LICENSE.txt"
+    "main.css": "/Taksmachine/static/css/main.6b4f7fef.chunk.css",
+    "main.js": "/Taksmachine/static/js/main.9efcaa6b.chunk.js",
+    "main.js.map": "/Taksmachine/static/js/main.9efcaa6b.chunk.js.map",
+    "runtime-main.js": "/Taksmachine/static/js/runtime-main.230bc875.js",
+    "runtime-main.js.map": "/Taksmachine/static/js/runtime-main.230bc875.js.map",
+    "static/js/2.acea5461.chunk.js": "/Taksmachine/static/js/2.acea5461.chunk.js",
+    "static/js/2.acea5461.chunk.js.map": "/Taksmachine/static/js/2.acea5461.chunk.js.map",
+    "index.html": "/Taksmachine/index.html",
+    "static/css/main.6b4f7fef.chunk.css.map": "/Taksmachine/static/css/main.6b4f7fef.chunk.css.map",
+    "static/js/2.acea5461.chunk.js.LICENSE.txt": "/Taksmachine/static/js/2.acea5461.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.02d4fa96.js",
+    "static/js/runtime-main.230bc875.js",
     "static/js/2.acea5461.chunk.js",
     "static/css/main.6b4f7fef.chunk.css",
     "static/js/main.9efcaa6b.chunk.js"
